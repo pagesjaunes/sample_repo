@@ -1,2 +1,3 @@
 # sample_repo
-repos for script validation
+repos for script validation 
+test from another player
